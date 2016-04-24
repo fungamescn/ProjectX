@@ -1,0 +1,9 @@
+[
+		{ "id" : "1001","resId" : "1001","bulletId" : "1001","offsetY" : "22","Obb" : "25|75","bornX" : "-7|18|43|56|60|60|47|25|6","bornY" : "10|15|20|37|48|62|73|83|88","hireCost" : "0","unlockCost" : "0","sound" : "sound_maleDeath.ogg" },
+		{ "id" : "1002","resId" : "1002","bulletId" : "1002","offsetY" : "22","Obb" : "25|75","bornX" : "-10|10|25|35|40|45|40|25|10","bornY" : "20|20|20|25|35|50|60|70|75","hireCost" : "2000","unlockCost" : "2","sound" : "sound_maleDeath.ogg" },
+		{ "id" : "1003","resId" : "1003","bulletId" : "1003","offsetY" : "22","Obb" : "25|75","bornX" : "-10|20|53|68|78|75|60|35|8","bornY" : "8|10|20|33|50|70|80|95|105","hireCost" : "4000","unlockCost" : "4","sound" : "sound_femaleDeath.ogg" },
+		{ "id" : "1004","resId" : "1004","bulletId" : "1004","offsetY" : "22","Obb" : "25|75","bornX" : "-10|10|25|35|40|45|40|25|10","bornY" : "20|20|20|25|35|50|60|70|75","hireCost" : "6000","unlockCost" : "6","sound" : "sound_femaleDeath.ogg" },
+		{ "id" : "1005","resId" : "1002","bulletId" : "1002","offsetY" : "22","Obb" : "25|75","bornX" : "-10|10|25|35|40|45|40|25|10","bornY" : "20|20|20|25|35|50|60|70|75","hireCost" : "2000","unlockCost" : "2","sound" : "sound_maleDeath.ogg" },
+		{ "id" : "1006","resId" : "1003","bulletId" : "1003","offsetY" : "22","Obb" : "25|75","bornX" : "-10|20|53|68|78|75|60|35|8","bornY" : "8|10|20|33|50|70|80|95|105","hireCost" : "4000","unlockCost" : "4","sound" : "sound_femaleDeath.ogg" },
+		{ "id" : "1007","resId" : "1004","bulletId" : "1004","offsetY" : "22","Obb" : "25|75","bornX" : "-10|10|25|35|40|45|40|25|10","bornY" : "20|20|20|25|35|50|60|70|75","hireCost" : "6000","unlockCost" : "6","sound" : "sound_femaleDeath.ogg" }
+]

@@ -1,0 +1,15 @@
+[
+		{ "id" : "1","skillDistance" : "0","repeat" : "1","scriptId" : "0","delay1" : "0","delay2" : "0" },
+		{ "id" : "2","skillDistance" : "500","repeat" : "1","scriptId" : "1","delay1" : "0","delay2" : "1" },
+		{ "id" : "3","skillDistance" : "0","repeat" : "1","scriptId" : "2","delay1" : "0","delay2" : "0" },
+		{ "id" : "4","skillDistance" : "0","repeat" : "1","scriptId" : "3","delay1" : "0","delay2" : "0" },
+		{ "id" : "5","skillDistance" : "0","repeat" : "1","scriptId" : "4","delay1" : "0","delay2" : "0" },
+		{ "id" : "6","skillDistance" : "500","repeat" : "1","scriptId" : "5","delay1" : "2","delay2" : "0" },
+		{ "id" : "7","skillDistance" : "50","repeat" : "1","scriptId" : "6","delay1" : "0","delay2" : "0" },
+		{ "id" : "10201","skillDistance" : "500","repeat" : "1","scriptId" : "1","delay1" : "0","delay2" : "1" },
+		{ "id" : "10401","skillDistance" : "500","repeat" : "1","scriptId" : "1","delay1" : "0","delay2" : "1" },
+		{ "id" : "10402","skillDistance" : "500","repeat" : "1","scriptId" : "5","delay1" : "2","delay2" : "0" },
+		{ "id" : "10101","skillDistance" : "500","repeat" : "1","scriptId" : "5","delay1" : "2","delay2" : "0" },
+		{ "id" : "10403","skillDistance" : "500","repeat" : "1","scriptId" : "1","delay1" : "0","delay2" : "1" },
+		{ "id" : "10404","skillDistance" : "500","repeat" : "1","scriptId" : "1","delay1" : "0","delay2" : "1" }
+]

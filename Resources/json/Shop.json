@@ -1,0 +1,6 @@
+[
+		{ "id" : "1","itemId" : "1","itemNum1" : "1","moneyType1" : "2","moneyNum1" : "2","itemNum2" : "3","moneyType2" : "2","moneyNum2" : "4" },
+		{ "id" : "2","itemId" : "2","itemNum1" : "1","moneyType1" : "2","moneyNum1" : "4","itemNum2" : "3","moneyType2" : "2","moneyNum2" : "6" },
+		{ "id" : "3","itemId" : "3","itemNum1" : "1","moneyType1" : "2","moneyNum1" : "2","itemNum2" : "3","moneyType2" : "2","moneyNum2" : "4" },
+		{ "id" : "4","itemId" : "4","itemNum1" : "1","moneyType1" : "2","moneyNum1" : "2","itemNum2" : "3","moneyType2" : "2","moneyNum2" : "4" }
+]

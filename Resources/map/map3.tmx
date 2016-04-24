@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="isometric" renderorder="right-down" width="54" height="54" tilewidth="96" tileheight="48" nextobjectid="1">
+ <tileset firstgid="1" name="black" tilewidth="96" tileheight="48">
+  <image source="black.png" width="96" height="48"/>
+ </tileset>
+ <layer name="blacklayer" width="54" height="54">
+  <data encoding="base64" compression="zlib">
+   eJztl1EOgCAMQ/H+l/bXGEXsuuKwL9mPxLIXQpyttbYtUFfM7inTawa9nhgZ9uJiLyzDXlzshWXYi0sFLyTjq14jswzaEyOD4RV5P0KmF4q9sAx7jWeqsBcnU8WT16zvT5S/erEzVdiLk6nCXnhmdA5m9HBei2S+KTZf8WL7qu5X71mGa4bX232O66yzVXs9zTbsutuLBXpnqnix82Z7KRj1rOZ1ZFWvM/aqhb1qYa9a2KsWq3itOm8ovdgzPbpX1r+esv7kZYzJYQcV7QIg
+  </data>
+ </layer>
+</map>

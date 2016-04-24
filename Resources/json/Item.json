@@ -1,0 +1,7 @@
+[
+		{ "id" : "1","name" : "医疗包","desc" : "复活一名队员或回复一名队员的全部血量","icon" : "item_medicine.png","type" : "1","var" : "1" },
+		{ "id" : "2","name" : "核弹","desc" : "向指定位置投掷核弹，造成巨大的全屏伤害","icon" : "item_nuclear.png","type" : "1","var" : "4" },
+		{ "id" : "3","name" : "机枪塔","desc" : "在指定位置召唤一座机枪塔，同时最多存在3座","icon" : "item_gatlin.png","type" : "1","var" : "5" },
+		{ "id" : "4","name" : "空袭导弹","desc" : "对指定区域发动空袭，造成大量伤害","icon" : "item_airStrike.png","type" : "1","var" : "3" },
+		{ "id" : "5","name" : "游戏币","desc" : "用于购买道具和升级雇佣兵","icon" : "item_money.png" }
+]

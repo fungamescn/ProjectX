@@ -1,0 +1,10 @@
+[
+		{ "id" : "1001","res" : "buff_1.png","propType" : "1","buffTime" : "10","addType" : "1","addNum" : "0.5" },
+		{ "id" : "1002","res" : "buff_2.png","propType" : "3","buffTime" : "10","addType" : "1","addNum" : "0.5" },
+		{ "id" : "1003","res" : "buff_3.png","propType" : "2","buffTime" : "10","addType" : "0","addNum" : "2" },
+		{ "id" : "2001","res" : "buff_4.png","propType" : "1","buffTime" : "0","addType" : "1","addNum" : "1" },
+		{ "id" : "2002","res" : "buff_5.png","propType" : "3","buffTime" : "0","addType" : "1","addNum" : "1" },
+		{ "id" : "2003","res" : "buff_6.png","propType" : "4","buffTime" : "0","addType" : "0","addNum" : "5000" },
+		{ "id" : "2004","res" : "buff_6.png","propType" : "4","buffTime" : "0","addType" : "1","addNum" : "1" },
+		{ "id" : "2005","res" : "buff_7.png","propType" : "2","buffTime" : "0","addType" : "1","addNum" : "3" }
+]

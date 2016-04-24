@@ -1,0 +1,15 @@
+[
+		{ "id" : "1","skillId" : "1","level" : "1","damage" : "240","attGroup" : "15","useShield" : "1","radius" : "100" },
+		{ "id" : "2","skillId" : "2","level" : "1","damage" : "120","attGroup" : "11","useShield" : "1","radius" : "100" },
+		{ "id" : "3","skillId" : "3","level" : "1","damage" : "12000","attGroup" : "12","useShield" : "1","radius" : "200" },
+		{ "id" : "4","skillId" : "4","level" : "1","damage" : "36000","attGroup" : "12","useShield" : "1","radius" : "0" },
+		{ "id" : "5","skillId" : "5","level" : "1","damage" : "400","attGroup" : "12","useShield" : "1","radius" : "0" },
+		{ "id" : "6","skillId" : "6","level" : "1","damage" : "600","attGroup" : "11","useShield" : "1","radius" : "150" },
+		{ "id" : "7","skillId" : "7","level" : "1","damage" : "120","attGroup" : "11","useShield" : "1","radius" : "100" },
+		{ "id" : "10401","skillId" : "10401","level" : "1","damage" : "240","attGroup" : "11","useShield" : "1","radius" : "110" },
+		{ "id" : "10402","skillId" : "10402","level" : "1","damage" : "700","attGroup" : "11","useShield" : "1","radius" : "160" },
+		{ "id" : "10201","skillId" : "10201","level" : "1","damage" : "120","attGroup" : "11","useShield" : "1","radius" : "100" },
+		{ "id" : "10101","skillId" : "10101","level" : "1","damage" : "600","attGroup" : "11","useShield" : "1","radius" : "150" },
+		{ "id" : "10403","skillId" : "10403","level" : "1","damage" : "360","attGroup" : "11","useShield" : "1","radius" : "110" },
+		{ "id" : "10404","skillId" : "10404","level" : "1","damage" : "480","attGroup" : "11","useShield" : "1","radius" : "110" }
+]

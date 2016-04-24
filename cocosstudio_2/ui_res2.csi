@@ -1,0 +1,10 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Type="Plist" Name="ui_res2" ID="29fe1703-c7d4-4b75-9817-b1a663a04c43" Version="2.3.1.2" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="2" AllowRotation="True" AllowAnySize="True" AllowTrim="True" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="res/ui_pic_blackBg.png" />
+      <FilePathData Path="res/ui_pic_guideTalk.png" />
+    </ImageFiles>
+    <MaxSize Width="142" Height="80" />
+  </Content>
+</PlistInfoProjectFile>
